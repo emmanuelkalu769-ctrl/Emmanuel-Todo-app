@@ -1,0 +1,1 @@
+{"$schema":"https://openapi.vercel.sh/vercel.json","framework":"fastapi","buildCommand":"npm --prefix frontend install --no-package-lock && npm --prefix frontend run build"}
